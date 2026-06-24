@@ -1,4 +1,4 @@
-SE 450 Project
+# SE 450 Project
 - Are you in a Group? - NO
 - If so, who else is in your group? - N/A
 - Do you have your GitHub account set up? - YES
