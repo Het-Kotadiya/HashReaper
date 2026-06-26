@@ -6,5 +6,4 @@ SE 450 Project
 - What is the link to your GitHub repository? - https://github.com/Het-Kotadiya/HashReaper.git
 - If you are in a group, does everyone have write access to the github repo? - N/A
 - Do you have a “Hello World” program that compiles and runs? - YES
-- Where is the entry point to your project? (src/main/Main.java for - src/Main.java
-  example) src/Main.java
+- Where is the entry point to your project? (src/main/Main.java for example) src/hashreaper/Main.java
